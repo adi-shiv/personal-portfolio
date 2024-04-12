@@ -7,7 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background: rgb(9, 197, 232);
+  background: #81c8da;
   background: linear-gradient(
     90deg,
     rgba(9, 197, 232, 0.5228292000393908) 0%,
@@ -321,8 +321,8 @@ footer {
   #skills {
     max-width: 90%;
     width: 90%;
-    height: 1500px;
-    border: 3px solid rgb(105, 103, 103);
+    height: 1600px;
+    border: 1px solid rgb(105, 103, 103);
     margin: auto;
     border-radius: 30px;
     text-align: center;
@@ -343,14 +343,16 @@ footer {
     align-items: center;
     align-content: center;
     gap: 10px;
+    padding: 20px;
   }
   .container2 img {
     width: 100px;
   }
   .container2 p {
-    font-weight: 600;
+    font-weight: 400;
     font-size: large;
     color: rgb(90, 89, 89);
+    font-size: 20px;
   }
   /* <---project--> */
 
@@ -358,7 +360,7 @@ footer {
     max-width: 90%;
     width: 90%;
     height: 1900px;
-    border: 3px solid rgb(105, 103, 103);
+    border: 1px solid rgb(105, 103, 103);
     margin: auto;
     border-radius: 30px;
     text-align: center;
@@ -397,7 +399,7 @@ footer {
     max-width: 90%;
     width: 90%;
     height: 200px;
-    border: 3px solid rgb(105, 103, 103);
+    border: 1px solid rgb(105, 103, 103);
     margin: auto;
     border-radius: 30px;
     text-align: center;
@@ -422,7 +424,7 @@ footer {
   footer {
     width: 90%;
     height: 50px;
-    border: 3px solid rgb(105, 103, 103);
+    border: 1px solid rgb(105, 103, 103);
     margin: auto;
     border-radius: 20px;
     text-align: center;
