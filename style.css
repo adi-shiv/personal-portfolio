@@ -217,6 +217,7 @@ header span {
   font-weight: 400;
   text-align: center;
   margin-top: 20px;
+  cursor: pointer;
   text-decoration: none;
 }
 #contact p> a {
@@ -224,6 +225,7 @@ header span {
     color: rgb(90, 89, 89);
     font-weight: 300;
     text-align: center;
+    cursor: pointer;
     margin-top: 18px;
     text-decoration: none;
 }
@@ -435,6 +437,7 @@ footer {
     text-align: center;
     margin-top: 18px;
     text-decoration: none;
+    cursor: pointer;
     
   }
   #contact p {
@@ -444,6 +447,7 @@ footer {
     text-align: center;
     margin-top: 18px;
     text-decoration: none;
+    cursor: pointer;
   }
 
   #contact img {
